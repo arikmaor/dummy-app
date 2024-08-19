@@ -2,7 +2,7 @@ import './App.css'
 import Shape, { ShapeProps } from './Shape'
 import data from './shapes.json'
 
-const shapesData = data.shapes as Partial<ShapeProps>[]
+const shapesData = data.shapes as Omit<ShapeProps, 'text'>[]
 
 const gridStyle: React.CSSProperties = {
   display: 'grid',
