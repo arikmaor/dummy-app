@@ -1,8 +1,20 @@
 {
   "shapes": [
-    {"shape": "square", "color": "red"},
-    {"shape": "circle", "color": "lightblue"},
-    {"shape": "star", "color": "green"},
-    {"shape": "circle", "color": "pink"}
+    {
+      "shape": "square",
+      "color": "pink"
+    },
+    {
+      "shape": "circle",
+      "color": "pink"
+    },
+    {
+      "shape": "circle",
+      "color": "red"
+    },
+    {
+      "shape": "star",
+      "color": "lightblue"
+    }
   ]
 }
