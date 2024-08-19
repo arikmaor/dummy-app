@@ -1,0 +1,8 @@
+{
+  "shapes": [
+    {"shape": "square", "color": "red"},
+    {"shape": "circle", "color": "lightblue"},
+    {"shape": "star", "color": "green"},
+    {"shape": "circle", "color": "pink"}
+  ]
+}
